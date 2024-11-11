@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+<<<<<<< HEAD
 	"author": "freecodecamp",
+=======
+	"author": "John Doe",
+>>>>>>> f61c966 (add author name)
 	"dependencies": {
 		"express": "^4.14.0"
 	},
