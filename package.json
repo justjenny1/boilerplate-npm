@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "John Doe",
+	"author": "freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
